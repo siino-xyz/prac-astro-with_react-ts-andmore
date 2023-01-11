@@ -5,13 +5,13 @@ const AlertDialogDemo = () => {
   return (
     <AlertDialog.Root>
       <AlertDialog.Trigger asChild>
-        <button className="Button violet">Delete account</button>
+        <button className="Button violet">Dほほほほｈ</button>
       </AlertDialog.Trigger>
       <AlertDialog.Portal>
         <AlertDialog.Overlay className="AlertDialogOverlay" />
         <AlertDialog.Content className="AlertDialogContent">
           <AlertDialog.Title className="AlertDialogTitle">
-            Are you absolutely sure?
+            Are you absolutely sure
           </AlertDialog.Title>
           <AlertDialog.Description className="AlertDialogDescription">
             This action cannot be undone. This will permanently delete your
